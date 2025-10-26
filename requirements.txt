@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-huggingface
+transformers
+torch
+accelerate
+python-dotenv

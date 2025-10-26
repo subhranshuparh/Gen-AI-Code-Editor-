@@ -1,0 +1,84 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# ==============================
+# Virtual Environments
+# ==============================
+venv/
+env/
+ENV/
+.myenv/
+.venv/
+mypro5/
+Scripts/
+Lib/
+Include/
+pyvenv.cfg
+
+# ==============================
+# Jupyter & Streamlit
+# ==============================
+.ipynb_checkpoints/
+.streamlit/
+.cache/
+logs/
+outputs/
+temp/
+tmp/
+
+# ==============================
+# Environment & Secrets
+# ==============================
+.env
+*.env
+.env.local
+.env.*
+*.pem
+*.key
+token.json
+
+# ==============================
+# Hugging Face / Model Cache
+# ==============================
+~/.cache/
+.huggingface/
+transformers_cache/
+datasets/
+*.bin
+*.pt
+*.pth
+
+# ==============================
+# VS Code / Editor Files
+# ==============================
+.vscode/
+*.code-workspace
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# OS-specific Files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Miscellaneous
+# ==============================
+*.log
+*.tmp
+*.bak
+*.old
